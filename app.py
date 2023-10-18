@@ -1,4 +1,4 @@
-titulo = "Cadastro"
+titulo = "Cadastros"
 print(len(titulo) * "=")
 print(titulo)
 print(len(titulo) * "=")
